@@ -1,0 +1,11 @@
+Object reference not set to an instance of an object.
+Object reference not set to an instance of an object.
+Object reference not set to an instance of an object.
+Object reference not set to an instance of an object.
+User: arn:aws:iam::519430209761:user/johnrd is not authorized to access this resource
+Access Denied
+Access Denied
+The specified bucket does not exist
+The given path's format is not supported.
+User: arn:aws:iam::519430209761:user/mwstag-IAMDeveloperStack-AD4WLVFUZG7R-iamuser-NB4SJ21UHN9Z is not authorized to perform: elastictranscoder:ListPipelines
+User: arn:aws:iam::519430209761:user/mwstag-IAMDeveloperStack-AD4WLVFUZG7R-iamuser-NB4SJ21UHN9Z is not authorized to access this resource
